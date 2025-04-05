@@ -49,7 +49,7 @@
     }
   },
   "body": {
-    "comment": "As a DRep, I voted ✅YES on this proposal.\nIt clearly defines the 2025 NCL timespan  and sets a maximum withdrawal limit from the treasury during that period—not a spending requirement.\nThis acts as a guardrail, ensuring we stay within limits, while still voting individually on each budget/withdrawal request. I support it to help move forward with treasury planning."
+    "comment": "As a DRep, I voted ✅YES on this proposal.\n\nIt sets a maximum treasury withdrawal limit for 2025—not a requirement to spend the full amount.\n\nThis acts as a guardrail, while DReps still vote on each individual budget/withdrawal request. I support this to help move forward with treasury planning."
   },
   "hashAlgorithm": "blake2b-256"
 }
